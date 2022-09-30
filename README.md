@@ -2,7 +2,7 @@
 EDA based in the Northwind DB using SQL through PostgreSQL
 
 
-At this JupyterNotebook I'm going to answer different business questions based on the Northwind Database, this DB was create on PostgreSQL so, first of all, I have to connect to my local host and then launch the queries.
+At this JupyterNotebook I'm going to answer different business questions based on the Northwind Database, this DB was created on PostgreSQL so, first of all, I have to connect to my local host and then launch the queries.
 
 To make it possible I used the following libraries:
 
